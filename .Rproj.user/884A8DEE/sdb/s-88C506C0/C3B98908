@@ -1,12 +1,12 @@
 {
-    "contents" : "Package: sketchbook\nType: Package\nTitle: OpenCPU Demo App\nVersion: 0.1\nDate: 2013-12-05\nAuthor: Jeroen Ooms\nMaintainer: Jeroen <jeroenooms@gmail.com>\nDescription: This package is an example of an OpenCPU App. It demonstrates\n    basic functionality of the API and Javascript library.\nLicense: Apache2\nLazyData: true\n",
+    "contents" : "Package: sketchbook\nType: Package\nTitle: OpenCPU Demo App\nVersion: 0.1\nDate: 2015-09-21\nAuthor: Jeroen Ooms\nMaintainer: Jeroen <jeroenooms@gmail.com>\nDescription: This package is an example of an OpenCPU App. It demonstrates\n    basic functionality of the API and Javascript library.\nLicense: Apache2\nLazyData: true\n",
     "created" : 1443324352170.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1214875644",
+    "hash" : "2374922128",
     "id" : "C3B98908",
-    "lastKnownWriteTime" : 1443324369,
+    "lastKnownWriteTime" : 1443325423,
     "path" : "~/R/sketchbook/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {

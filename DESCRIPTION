@@ -2,7 +2,7 @@ Package: sketchbook
 Type: Package
 Title: OpenCPU Demo App
 Version: 0.1
-Date: 2013-12-05
+Date: 2015-09-21
 Author: Jeroen Ooms
 Maintainer: Jeroen <jeroenooms@gmail.com>
 Description: This package is an example of an OpenCPU App. It demonstrates
