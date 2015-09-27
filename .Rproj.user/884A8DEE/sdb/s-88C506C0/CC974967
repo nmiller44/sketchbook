@@ -1,0 +1,18 @@
+{
+    "contents" : "#' Hello World\n#' \n#' Basic hello world function to be called from the demo app\n#' \n#' @export\n#' @param myname your name. Required.\nhello <- function(myname = \"\"){\n  if(myname == \"\"){\n    stop(\"Tell me your name!\")\n  }\n  list(\n    message = paste(\"hello\", myname, \"! This is\", R.Version()$version.string)\n  )\n}",
+    "created" : 1443154418445.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "447041175",
+    "id" : "CC974967",
+    "lastKnownWriteTime" : 1443324194,
+    "path" : "~/R/sketchbook/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
