@@ -1,4 +1,4 @@
 export(hello)
 export(givejson)
-importfrom(jsonlite,toJSON)
-importfrom(jsonlite,fromJSON)
+importFrom(jsonlite,toJSON)
+importFrom(jsonlite,fromJSON)
