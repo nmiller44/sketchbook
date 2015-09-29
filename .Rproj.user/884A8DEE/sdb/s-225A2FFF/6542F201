@@ -1,10 +1,10 @@
 {
-    "contents" : "",
+    "contents" : "install.packages(\"jsonlite\", repos=\"http://cran.r-project.org\")\n",
     "created" : 1443324103745.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2567626433",
     "id" : "6542F201",
     "lastKnownWriteTime" : 225821824,
     "path" : null,

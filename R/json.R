@@ -1,3 +1,5 @@
+library(jsonlite)
+
 givejson <- function(url="") {
   data <- fromJSON(url)
   list(
