@@ -20,10 +20,12 @@
         var req = ocpu.rpc("givejson", {
           url : "https://public.opencpu.org/ocpu/library/MASS/data/Cars93/json"
         }, function(output){
-          var origjson = output.json;
+          var cleanjson = output.json;
+
+          delete cleanjson.Manufacturer;
 
           //$("#output").text(output.json);
-          $("#output").text(origjson);
+          $("#output").text(cleanjson);
         });
         
         //if R returns an error, alert the error message
