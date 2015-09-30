@@ -18,9 +18,12 @@
         
         //perform the request
         var req = ocpu.rpc("givejson", {
-          url : "https://public.opencpu.org/ocpu/library/MASS/data/housing/json"
+          url : "https://public.opencpu.org/ocpu/library/MASS/data/Cars93/json"
         }, function(output){
-          $("#output").text(output.json);
+          var origjson = output.json;
+
+          //$("#output").text(output.json);
+          $("#output").text(origjson);
         });
         
         //if R returns an error, alert the error message
