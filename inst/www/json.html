@@ -22,7 +22,8 @@
         }, function(output){
           var cleanjson = output.json;
 
-          delete cleanjson.Manufacturer;
+          delete cleanjson['Manufacturer'];
+          delete cleanjson['Type'];
 
           //$("#output").text(output.json);
           $("#output").text(cleanjson);
