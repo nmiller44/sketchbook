@@ -1,0 +1,18 @@
+{
+    "contents" : "library(jsonlite)\n\ndata <- fromJSON('https://public.opencpu.org/ocpu/library/MASS/data/Cars93/json')\n",
+    "created" : 1443642653204.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1720826547",
+    "id" : "3BDAE314",
+    "lastKnownWriteTime" : 27584994400731252,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
