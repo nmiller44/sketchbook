@@ -7,6 +7,6 @@ givejson <- function(url="") {
   newdata <- data[datakeepers]
   
   list(
-    json = toJSON(newdata)
+    json = toJSON(data)
   )
 }
