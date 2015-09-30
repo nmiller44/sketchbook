@@ -1,12 +1,12 @@
 {
-    "contents" : "givejson <- function(url=\"\") {\n  data <- fromJSON(url)\n  \n  datakeepers <- c(\"Model\",\"Price\",\"MPG.highway\",\"Horsepower\",\"Passengers\",\"Weight\")\n  \n  list(\n    json = toJSON(data[datakeepers])\n  )\n}",
+    "contents" : "givejson <- function(url=\"\") {\n  data <- fromJSON(url)\n  \n  #datakeepers <- c(\"Model\",\"Price\",\"MPG.highway\",\"Horsepower\",\"Passengers\",\"Weight\")\n  datakeepers <- c(\"Model\",\"Price\",\"Horsepower\")\n  \n  list(\n    json = toJSON(data[datakeepers])\n  )\n}",
     "created" : 1443551078929.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2429118001",
+    "hash" : "2718129313",
     "id" : "2EC26E04",
-    "lastKnownWriteTime" : 1443643655,
+    "lastKnownWriteTime" : 1443644033,
     "path" : "~/R/sketchbook/R/json.R",
     "project_path" : "R/json.R",
     "properties" : {
