@@ -108,9 +108,9 @@
       var req = ocpu.rpc("givejson", {
           url : "https://public.opencpu.org/ocpu/library/MASS/data/Cars93/json"
       }, function(output){
-          var cleanjson = output.json;
+          //var cleanjson = output.json;
 
-          d3.json(cleanjson, function(error, cars) {
+          d3.json(output.json, function(error, cars) {
 
               // Extract the list of dimensions and create a scale for each.
               x.domain(dimensions = d3.keys(cars[0]).filter(function(d) {
