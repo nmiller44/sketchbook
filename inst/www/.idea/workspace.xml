@@ -34,8 +34,8 @@
       <file leaf-file-name="json.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/json.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.76923">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="40" />
+            <state vertical-scroll-proportion="-14.615385">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/parcoor.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6133434">
-              <caret line="124" column="42" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
+              <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -87,8 +87,8 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/opencpu/test.html" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/json.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/json.html" />
         <option value="$PROJECT_DIR$/parcoor.html" />
       </list>
     </option>
@@ -302,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.76923">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="40" />
+        <state vertical-scroll-proportion="-14.615385">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -311,7 +311,7 @@
     <entry file="file://$PROJECT_DIR$/parcoor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6133434">
-          <caret line="124" column="42" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
+          <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
           <folding />
         </state>
       </provider>

@@ -98,7 +98,7 @@
             background,
             foreground;
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#output").append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
@@ -181,17 +181,8 @@
     }
 
   </script>
-    <h1>JSON Provider</h1>
-    
-    <!--b>URL: </b> <input type="text" id="namefield"-->
-    
-    <button id="submitbutton" type="button">Get that JSON!</button>
-  
-    <br />
+    <h1>Parallel Coordinates</h1>
 
-    <p>
-     This is a basic JSON RPC call to OpenCPU using jsonlite to pull, parse and return JSON using R.
-    </p>
 
     <p id="output"></p>
     
