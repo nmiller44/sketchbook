@@ -110,7 +110,7 @@
       }, function(output){
           //var cleanjson = output.json;
 
-          d3.json(output.json, function(error, cars) {
+          d3.json(text(output.json), function(error, cars) {
 
               // Extract the list of dimensions and create a scale for each.
               x.domain(dimensions = d3.keys(cars[0]).filter(function(d) {
